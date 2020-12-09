@@ -6,3 +6,4 @@ SYSTEMADMINISTRATION
 BIG DATA
 CLOUD COMPUTING(COMING SOON)
 FULL STACK DEVELOPMENT
+ corrected changed manual settings SA still pending group work setting
